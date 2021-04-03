@@ -1,0 +1,7 @@
+# Cubic spline interpolation
+cubic_spline is a python class able to draw curves bounded by some control ctrl_points
+by using cubic splines
+To try this tool run
+"""
+python3 draw_spline.py
+"""
